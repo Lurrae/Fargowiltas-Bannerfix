@@ -12,7 +12,8 @@ namespace Fargowiltas.Items.Tiles
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Omnistation+");
-            Tooltip.SetDefault(@"Effects of all buff stations, modded and vanilla
+            Tooltip.SetDefault(@"Can be reused indefinitely
+Effects of all buff stations, modded and vanilla
 Grants Honey when touched
 Right click while holding a weapon for its respective buff
 Currently only supports Thorium and Calamity");

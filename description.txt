@@ -2,8 +2,5 @@ This is a Quality of life mod that adds the Mutant town NPC who sells boss summo
 There are several other items such as infinite ammos, craftable instant builds for common world infrastructure like skybridges, obsidian underworld bridges, hellevators, unlimited potions, increased spawn rates toggle item, and more!
 
 
-NEW UPDATE - V 2.4.2
--Frost/Pumpkin Moon summons only work during the event since their loot is wave-based, meaning summoning at night doesn't give drops
--Transparent Minions is a slider
--Text prints in chat when an Abom/Deviantt enemy spawner is unlocked to better communicate it to player
--Super Dummies max at 50
+NEW UPDATE - V 2.4.3
+-Omnistation item tooltip notes it's infinitely reusable
